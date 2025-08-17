@@ -10,15 +10,15 @@ document.addEventListener("scroll", function () {
     fixedTop.classList.toggle("fixed-icon-top", window.scrollY > 200);
 })
 
-for (let i = 0; i < 1; i++) {
-    document.addEventListener("scroll", function () {
-        if (window.scrollY >= 4480) {
-            playBtn.classList.add("up-effect");
-            videoBtn.classList.add("up-effect");
-            videoHeading.classList.add("up-effect");
-        }
-    })
-}
+// for (let i = 0; i < 1; i++) {
+//     document.addEventListener("scroll", function () {
+//         if (window.scrollY >= 4480) {
+//             playBtn.classList.add("up-effect");
+//             videoBtn.classList.add("up-effect");
+//             videoHeading.classList.add("up-effect");
+//         }
+//     })
+// }
 
 let runned = false;
 
@@ -74,4 +74,5 @@ inp.addEventListener("focus", function () {
 
 inp.addEventListener("blur", function () {
     this.placeholder = "Email Address";
+
 })
