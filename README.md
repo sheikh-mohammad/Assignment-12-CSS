@@ -67,17 +67,17 @@ Assignment-12-CSS/
   ```bash
   cd Assignment-12-CSS
   ```
-3. **Open index.html in your browser to preview the website.**
+3. **Open `index.html` in your browser to preview the website.**
 Or simply visit the [live demo link] (https://sheikh-mohammad.github.io/Assignment-12-CSS/)
 
 ---
 
 ## Customization
 
-- Replace images in assets/images/ with your own visuals
-- Update text content in index.html
-- Adjust fonts, colors, and layout via style.css
-- Add or enhance interactivity in script.js
+- Replace images in `assets/images/` with your own visuals
+- Update text content in `index.html`
+- Adjust fonts, colors, and layout via `style.css`
+- Add or enhance interactivity in `script.js`
 
 ---
 
@@ -85,7 +85,7 @@ Or simply visit the [live demo link] (https://sheikh-mohammad.github.io/Assignme
 
 Contributions are welcome!
 1. Fork the repository
-2. Create a new branch (git checkout -b feature-name)
+2. Create a new branch (`git checkout -b feature-name`)
 3. Commit your changes
 4. Open a Pull Request with a clear description
 
